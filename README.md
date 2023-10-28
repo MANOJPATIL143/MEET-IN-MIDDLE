@@ -58,7 +58,7 @@ npm start
 <br>
 
 
-![Webpage](https://user-images.githubusercontent.com/84511419/194266338-6288daa8-9880-4d1e-8058-79ab1d2a1eb9.png)
+
 
 
 ## Getting Started
